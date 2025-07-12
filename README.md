@@ -29,9 +29,6 @@ Profile Views
   <a href="[https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/basit-khalil-261075214?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/BasitAhmedGit">
-    <img src="https://img.shields.io/badge/GitHub-BasitAhmedGit-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </p>
 
 ---
